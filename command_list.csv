@@ -1,0 +1,104 @@
+    1  cd Git
+    2  cd Git
+    3  ckear
+    4  clear
+    5  cd desktop
+    6  cd Git
+    7  [200~history -c && rm ~/.bash_history~
+    8  
+    9  [200~history -c && rm ~/.bash_history~
+   10  clear
+   11  git config 
+   12  git config -- global user name "Anton Litvinov"
+   13  clear
+   14  [200~git config --global user.name "Ваше Ім'я"
+   15  git config --global user.name "Anton Litvinov"
+   16  git config --global user.email litvinoff92@gmail.com
+   17  git clone 
+   18  cd Git
+   19  clear
+   20  git clone You must specify a repository to clone.
+   21  clear
+   22  clear
+   23  git clone ^?
+   24  git clone 
+   25  clear
+   26  cd Git
+   27  git config --global user.name "Anton Litvinov"
+   28  git config --global user.email litvinoff92@gmail.com
+   29  pwd
+   30  git clone https://github.com/AnthonyFox92/HW_10.git
+   31  \cd Git
+   32  touch text_ignore.txt
+   33  [200~echo "text_ignore.txt" >> .gitignore~
+   34  echo text_ignore.txt.gitignorrre
+   35  echo text_ignore.txt.gitignore
+   36  git status
+   37  pwd
+   38  git status
+   39  cd repository
+   40  echo "text_ignore.txt" >> .gitignore
+   41  git status
+   42  nano .gitignore
+   43  git status
+   44  git add
+   45  cd Git
+   46  Ls 
+   47  git status
+   48  pwd
+   49  cd Git
+   50  Git status
+   51  git add.
+   52  git add
+   53  cd HW_10
+   54  git status
+   55  git add text_ignore.txt
+   56  git add text_ignore.txt
+   57  git status
+   58  cd Git
+   59  LS Git
+   60  pwd
+   61  Ls
+   62  git add
+   63  git add text_ignore.txt.
+   64  git add text_ignore
+   65  git add text_ignore.txt
+   66  pwd
+   67  cd 
+   68  pwd
+   69  cd Git
+   70  cd /c/Users/Admin/desktop/Git
+   71  pwd
+   72  git add text_ignore.txt
+   73  cd HW_10
+   74  git status
+   75  touch text_ignore.txt
+   76  git status
+   77  git add text_ignore.txt
+   78  git status
+   79  git commit-m 
+   80  git commit-m "New file created"
+   81  git commit -m "New file created"
+   82  touch main_test.txt
+   83  git status
+   84  git add main_test.txt
+   85  git status
+   86  git commit -m "Empty file created"
+   87  git checkout -b develop
+   88  touch develop_test.txt
+   89  git status
+   90  git add develop_test.txt
+   91  git statuus
+   92  git status
+   93  git commit -m "New branch created"
+   94  nano develop_test.txt
+   95  git status
+   96  git add develop_test.txt
+   97  git status
+   98  git commit -m "File develop_test is modified"
+   99  сheckout -b main
+  100  git checkout -b main
+  101  git checkout main
+  102  git merge develop
+  103  git log
+  104  history > command_list.csv
